@@ -3,7 +3,7 @@ import "./Button.css";
 import classes from "./Button.css";
 
 const Button = (props) => {
-    console.log("props.btnType", props.btnType)
+    console.log("props.btnType", props)
     
     return(
         
